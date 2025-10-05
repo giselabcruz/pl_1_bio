@@ -2,6 +2,7 @@
 
 **Ejercicio 1:**
 - Programa en Python que:
+
 	•	Lee un fichero FASTA con varias secuencias de ADN.
 
 	•	Calcula el porcentaje de GC de cada una y lo muestra por pantalla.
