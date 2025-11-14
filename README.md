@@ -32,7 +32,6 @@ Trabajo de búsqueda de **3 proteínas** y sus correspondientes archivos FASTA y
 
 En el notebook se:
 
-- Localizan y descargan las secuencias en formato **FASTA**.
 - Añaden breves descripciones biológicas de cada proteína.
 - Descargan los archivos **PDB** reales desde el Protein Data Bank.
 - Visualizan las estructuras tridimensionales de los archivos PDB utilizando `py3Dmol`.
