@@ -1,18 +1,42 @@
-# pl_1_bio
+# Práctica 2: Ficheros
 
-**Ejercicio 1:**
-- Programa en Python que:
+Pequeña práctica de bioinformática en Python dividida en dos ejercicios principales: análisis de secuencias de ADN y búsqueda/visualización de proteínas.
 
-	•	Lee un fichero FASTA con varias secuencias de ADN.
+---
 
-	•	Calcula el porcentaje de GC de cada una y lo muestra por pantalla.
+## Ejercicio 1: Análisis de secuencias de ADN
 
-	•	Traduce las secuencias a aminoácidos.
+Programa en Python que:
 
-	•	Guarda las secuencias resultantes en un nuevo FASTA, manteniendo los identificadores originales.
+- Lee un fichero **FASTA** con varias secuencias de ADN.
+- Calcula el **porcentaje de GC** de cada secuencia y lo muestra por pantalla.
+- Traduce las secuencias de **ADN a aminoácidos**.
+- Guarda las secuencias traducidas en un nuevo fichero FASTA, manteniendo los identificadores originales.
 
-**Ejercicio 2:**
-- Trabajo de búsqueda de 3 proteínas y sus correspondientes archivos FASTA:
-  - Oxitocina
-  - Queratina
-  - Colágeno
+### Resumen de resultados
+
+En el notebook se exploran y visualizan los resultados mediante gráficos:
+
+- Distribución del **porcentaje de GC** por secuencia.
+- Comparación visual de las **longitudes de las secuencias**.
+
+---
+
+## Ejercicio 2: Búsqueda y visualización de proteínas
+
+Trabajo de búsqueda de **3 proteínas** y sus correspondientes archivos FASTA y PDB:
+
+- Oxitocina
+- Queratina
+- Colágeno
+
+En el notebook se:
+
+- Localizan y descargan las secuencias en formato **FASTA**.
+- Añaden breves descripciones biológicas de cada proteína.
+- Descargan los archivos **PDB** reales desde el Protein Data Bank.
+- Visualizan las estructuras tridimensionales de los archivos PDB utilizando `py3Dmol`.
+
+### Resumen de visualizaciones
+
+Las estructuras 3D de las proteínas se muestran en el notebook y, si se han guardado como imágenes, se pueden referenciar en el README, por ejemplo:
