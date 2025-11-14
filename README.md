@@ -37,6 +37,10 @@ En el notebook se:
 - Descargan los archivos **PDB** reales desde el Protein Data Bank.
 - Visualizan las estructuras tridimensionales de los archivos PDB utilizando `py3Dmol`.
 
-### Resumen de visualizaciones
+### Visualización de proteínas
 
-Las estructuras 3D de las proteínas se muestran en el notebook y, si se han guardado como imágenes, se pueden referenciar en el README, por ejemplo:
+A continuación se muestran las imágenes generadas a partir de los archivos PDB:
+
+| Oxytocin | Collagen | Keratin |
+|----------|----------|---------|
+| ![Oxytocin](protein_images/oxytocin.png) | ![Collagen](protein_images/collagen.png) | ![Keratin](protein_images/keratin.png) |
