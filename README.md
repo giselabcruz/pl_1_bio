@@ -4,6 +4,12 @@ Pequeña práctica de bioinformática en Python dividida en dos ejercicios princ
 
 ---
 
+Además, esta práctica se encuentra disponible en la siguiente página de GitHub:
+
+➡️ **[https://giselabcruz.github.io/bioinformatics/practicaLab2/](https://giselabcruz.github.io/bioinformatics/practicaLab2/)**
+
+---
+
 ## Ejercicio 1: Análisis de secuencias de ADN
 
 Programa en Python que:
